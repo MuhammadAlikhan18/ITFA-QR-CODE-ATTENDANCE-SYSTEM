@@ -3,9 +3,9 @@
 EF101-P10 | EF-101 Fall 2026 | Course: ITFA
 
 Group members:
-- Name Muhammad Ali Khan (EE-191)
-- Name Adeen Ikram (EE-196)
-- Name Syed Ramish Jamil (EE-184)
+-  Muhammad Ali Khan (EE-191)
+-  Adeen Ikram (EE-196)
+-  Syed Ramish Jamil (EE-184)
 
 ## About
 A C++ console system in which a QR code links a student to an attendance
